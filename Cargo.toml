@@ -1,0 +1,8 @@
+[package]
+name = "unity-to-rust"
+version = "0.1.0"
+authors = ["Jim Fleming <jimmy.fleming@gmail.com>"]
+
+[lib]
+name = "unity_rust"
+crate-type = ["dylib"]
