@@ -12,3 +12,4 @@ $(BUNDLE): $(DYLIB)
 clean:
 	rm -rf target/
 	rm -f $(BUNDLE)
+	rm -f $(BUNDLE).meta
